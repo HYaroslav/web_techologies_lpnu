@@ -1,0 +1,54 @@
+.firstrow {
+  width: 0px;
+  display: none;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#table {
+  width: 80%;
+  position: absolute;
+  left: 10%;
+
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: cursive;
+  min-width: 400px;
+  border-radius: 5px;
+}
+
+#table th {
+  padding: 12px 15px;
+}
+
+#table td {
+  padding: 12px 15px;
+}
+
+#table tr {}
+
+#table tbody tr:nth-of-type(even) {}
+
+#table tbody tr:last-of-type {
+  border-bottom: 2px solid #FFA07A;
+}
+
+
+h1 {
+  margin: 10px;
+  background-color: #4e72ff;
+  color: rgb(255, 255, 0);
+  padding: 20px;
+  text-align: center;
+}
+
+.myform input {
+  margin: 5px;
+}
+
+table {
+  margin: 5px;
+}

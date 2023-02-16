@@ -1,0 +1,13 @@
+.messageBlock {
+    border: 1cm;
+    border-color: blue;
+}
+
+.author {
+    font-size: large;
+    font-weight: bold;
+}
+
+.my-message p {
+    text-align: right;
+}
